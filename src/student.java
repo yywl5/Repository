@@ -3,4 +3,5 @@ class student{
   private string name;
   private string address;
   private string email;
+  private String telephone;
 }
